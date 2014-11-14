@@ -14,6 +14,11 @@ $ yo --version
 1.1.2
 ```
 
+```
+grunt build 
+```
+- run twice, once with NODE_ENV unset (or set to development), then set NODE_ENV=production run again. 
+
 
 [![MEAN.JS Logo](http://meanjs.org/img/logo-small.png)](http://meanjs.org/)
 
