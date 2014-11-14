@@ -1,3 +1,20 @@
+Sample app generated using the yo generator described below for testing deployment functionality
+
+```
+$ node --version
+v0.10.33
+$ npm --version
+1.4.28
+$ bower --version
+1.3.12
+$ grunt --version
+grunt-cli v0.1.13
+grunt v0.4.5
+$ yo --version
+1.1.2
+```
+
+
 [![MEAN.JS Logo](http://meanjs.org/img/logo-small.png)](http://meanjs.org/)
 
 [![Build Status](https://travis-ci.org/meanjs/mean.svg?branch=master)](https://travis-ci.org/meanjs/mean)
